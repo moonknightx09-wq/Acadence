@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+{
+    "records": [
+        {
+            "teacher_id": "Madara Uchiha",
+            "subject": "Mathematics",
+            "topic": "Derivative ",
+            "student_name": "Imran Farhat",
+            "score": 0.0,
+            "weak_topics": [
+                "What is the derivative of x^2?",
+                "What is the derivative of 3x^2?",
+                "What is the derivative of sin(x)?",
+                "What is the derivative of e^x?",
+                "What is the derivative of 2x^3?"
+            ],
+            "blockchain_hash": "d568b90106c3a5b631bd0de013c2a727638b0bd65101d7e8dee3ba3436512eaf"
+        }
+    ]
+=======
+{
+    "records": [
+        {
+            "teacher_id": "Madara Uchiha",
+            "subject": "Mathematics",
+            "topic": "Derivative ",
+            "student_name": "Imran Farhat",
+            "score": 0.0,
+            "weak_topics": [
+                "What is the derivative of x^2?",
+                "What is the derivative of 3x^2?",
+                "What is the derivative of sin(x)?",
+                "What is the derivative of e^x?",
+                "What is the derivative of 2x^3?"
+            ],
+            "blockchain_hash": "d568b90106c3a5b631bd0de013c2a727638b0bd65101d7e8dee3ba3436512eaf"
+        }
+    ]
+>>>>>>> 4af0533a6ff38f39f444806c9ed2167a1f080f88
+}

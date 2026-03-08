@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@weilliptic/weil-sdk": "^1.1.1"
+  }
+}

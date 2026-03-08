@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+streamlit
+json
+groq
+python-dotenv
+=======
+streamlit
+groq
+python-dotenv
+>>>>>>> 4af0533a6ff38f39f444806c9ed2167a1f080f88

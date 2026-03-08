@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+{
+    "stu_imran": {
+        "scores": [
+            20.0
+        ],
+        "weak_topics": [
+            "What is the value of x in the equation 2x + 5 = 11?",
+            "A bakery sells 480 loaves of bread per day. If they make a profit of $0.50 per loaf, how much profit do they make in a day?",
+            "What is the area of a rectangle with a length of 8 cm and a width of 5 cm?",
+            "If it takes 5 apples to make 1 pie and you have 25 apples, how many pies can you make?"
+        ]
+    }
+=======
+{
+    "stu_imran": {
+        "scores": [
+            20.0
+        ],
+        "weak_topics": [
+            "What is the value of x in the equation 2x + 5 = 11?",
+            "A bakery sells 480 loaves of bread per day. If they make a profit of $0.50 per loaf, how much profit do they make in a day?",
+            "What is the area of a rectangle with a length of 8 cm and a width of 5 cm?",
+            "If it takes 5 apples to make 1 pie and you have 25 apples, how many pies can you make?"
+        ]
+    }
+>>>>>>> 4af0533a6ff38f39f444806c9ed2167a1f080f88
+}

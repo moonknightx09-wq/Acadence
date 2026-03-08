@@ -1,0 +1,136 @@
+<<<<<<< HEAD
+{
+    "quizzes": [
+        {
+            "quiz_id": "1",
+            "subject": "Mathematics",
+            "topic": "Derivative ",
+            "questions": [
+                {
+                    "question": "What is the derivative of x^2?",
+                    "options": [
+                        "The derivative of x^2 is 2",
+                        "The derivative of x^2 is 0",
+                        "The derivative of x^2 is x^2",
+                        "The derivative of x^2 is 2x"
+                    ],
+                    "correct_answer": "The derivative of x^2 is 2x",
+                    "explanation": "The derivative of a quadratic function is a linear function with a leading coefficient equal to 2 times the coefficient of x squared in the quadratic function."
+                },
+                {
+                    "question": "What is the derivative of 3x^2?",
+                    "options": [
+                        "The derivative of 3x^2 is 6",
+                        "The derivative of 3x^2 is 3",
+                        "The derivative of 3x^2 is 2",
+                        "The derivative of 3x^2 is 6x"
+                    ],
+                    "correct_answer": "The derivative of 3x^2 is 6x",
+                    "explanation": "To find the derivative of a polynomial function, we multiply each term by its exponent and then subtract one from the exponent. In this case, the derivative of 3x^2 is 6x."
+                },
+                {
+                    "question": "What is the derivative of sin(x)?",
+                    "options": [
+                        "The derivative of sin(x) is cos(x)",
+                        "The derivative of sin(x) is sin(x)",
+                        "The derivative of sin(x) is -cos(x)",
+                        "The derivative of sin(x) is -sin(x)"
+                    ],
+                    "correct_answer": "The derivative of sin(x) is cos(x)",
+                    "explanation": "The derivatives of trigonometric functions can be found using the chain rule and the sum rule. For sine, the derivative is cosine."
+                },
+                {
+                    "question": "What is the derivative of e^x?",
+                    "options": [
+                        "The derivative of e^x is ln(x)",
+                        "The derivative of e^x is 1",
+                        "The derivative of e^x is e^x",
+                        "The derivative of e^x is e^x"
+                    ],
+                    "correct_answer": "The derivative of e^x is e^x",
+                    "explanation": "The derivative of e^x is e^x because the derivative of the exponential function is the same function. This is a fundamental property of exponential functions."
+                },
+                {
+                    "question": "What is the derivative of 2x^3?",
+                    "options": [
+                        "The derivative of 2x^3 is 2",
+                        "The derivative of 2x^3 is 2x^2",
+                        "The derivative of 2x^3 is 6x^2",
+                        "The derivative of 2x^3 is 6x^2"
+                    ],
+                    "correct_answer": "The derivative of 2x^3 is 6x^2",
+                    "explanation": "To find the derivative of a polynomial function, we multiply each term by its exponent and then subtract one from the exponent. In this case, the derivative of 2x^3 is 6x^2."
+                }
+            ],
+            "created_by": "Madara Uchiha"
+        }
+    ]
+=======
+{
+    "quizzes": [
+        {
+            "quiz_id": "1",
+            "subject": "Mathematics",
+            "topic": "Derivative ",
+            "questions": [
+                {
+                    "question": "What is the derivative of x^2?",
+                    "options": [
+                        "The derivative of x^2 is 2",
+                        "The derivative of x^2 is 0",
+                        "The derivative of x^2 is x^2",
+                        "The derivative of x^2 is 2x"
+                    ],
+                    "correct_answer": "The derivative of x^2 is 2x",
+                    "explanation": "The derivative of a quadratic function is a linear function with a leading coefficient equal to 2 times the coefficient of x squared in the quadratic function."
+                },
+                {
+                    "question": "What is the derivative of 3x^2?",
+                    "options": [
+                        "The derivative of 3x^2 is 6",
+                        "The derivative of 3x^2 is 3",
+                        "The derivative of 3x^2 is 2",
+                        "The derivative of 3x^2 is 6x"
+                    ],
+                    "correct_answer": "The derivative of 3x^2 is 6x",
+                    "explanation": "To find the derivative of a polynomial function, we multiply each term by its exponent and then subtract one from the exponent. In this case, the derivative of 3x^2 is 6x."
+                },
+                {
+                    "question": "What is the derivative of sin(x)?",
+                    "options": [
+                        "The derivative of sin(x) is cos(x)",
+                        "The derivative of sin(x) is sin(x)",
+                        "The derivative of sin(x) is -cos(x)",
+                        "The derivative of sin(x) is -sin(x)"
+                    ],
+                    "correct_answer": "The derivative of sin(x) is cos(x)",
+                    "explanation": "The derivatives of trigonometric functions can be found using the chain rule and the sum rule. For sine, the derivative is cosine."
+                },
+                {
+                    "question": "What is the derivative of e^x?",
+                    "options": [
+                        "The derivative of e^x is ln(x)",
+                        "The derivative of e^x is 1",
+                        "The derivative of e^x is e^x",
+                        "The derivative of e^x is e^x"
+                    ],
+                    "correct_answer": "The derivative of e^x is e^x",
+                    "explanation": "The derivative of e^x is e^x because the derivative of the exponential function is the same function. This is a fundamental property of exponential functions."
+                },
+                {
+                    "question": "What is the derivative of 2x^3?",
+                    "options": [
+                        "The derivative of 2x^3 is 2",
+                        "The derivative of 2x^3 is 2x^2",
+                        "The derivative of 2x^3 is 6x^2",
+                        "The derivative of 2x^3 is 6x^2"
+                    ],
+                    "correct_answer": "The derivative of 2x^3 is 6x^2",
+                    "explanation": "To find the derivative of a polynomial function, we multiply each term by its exponent and then subtract one from the exponent. In this case, the derivative of 2x^3 is 6x^2."
+                }
+            ],
+            "created_by": "Madara Uchiha"
+        }
+    ]
+>>>>>>> 4af0533a6ff38f39f444806c9ed2167a1f080f88
+}
